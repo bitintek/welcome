@@ -58,11 +58,7 @@ We love collaborating with the community! Whether you are a developer, designer,
 
 ## 📬 Contact & Support
 
-* **Website:** [your-organization-website.com](https://example.com)
-* **Support Email:** `support@your-organization.com`
-* **Community Chat:** [Join our Discord/Slack Server](#)
-* **Twitter / X:** [@YourOrgHandle](https://x.com)
-
+* **Website:** [bitintek.com](https://bitintek.com)
 ---
 
 <p align="center">
